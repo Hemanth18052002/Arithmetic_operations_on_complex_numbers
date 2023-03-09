@@ -1,0 +1,54 @@
+1.Subtration            2.Multiplication        3.Division
+4.Floor Division        5.Remainder             6.quit
+
+Enter your choice : 1
+
+Enter real1 and imaginary1 part : 1 2
+Enter real2 and imaginary2 part : 2 3
+
+        Subtration (1, 2) from (2, 3) is -1 - 1j
+
+1.Subtration            2.Multiplication        3.Division
+4.Floor Division        5.Remainder             6.quit
+
+Enter your choice : 2
+
+Enter real1 and imaginary1 part : 1 2
+Enter real2 and imaginary2 part : 2 3
+
+        Multiplication of (1, 2) and (2, 3) is -4 + 7j
+
+1.Subtration            2.Multiplication        3.Division
+4.Floor Division        5.Remainder             6.quit
+
+Enter your choice : 3
+
+Enter real1 and imaginary1 part : 4 3
+Enter real2 and imaginary2 part : 5 4
+
+        Division of (4, 3) by (5, 4) is 0.78 - 0.02j
+
+1.Subtration            2.Multiplication        3.Division
+4.Floor Division        5.Remainder             6.quit
+
+Enter your choice : 4
+
+Enter real1 and imaginary1 part : 3 4
+Enter real2 and imaginary2 part : 6 1
+
+        Floor Division of (3, 4) by (6, 1) is 0 + 0j
+
+1.Subtration            2.Multiplication        3.Division
+4.Floor Division        5.Remainder             6.quit
+
+Enter your choice : 5
+
+Enter real1 and imaginary1 part : 2 3
+Enter real2 and imaginary2 part : 1 6
+
+        Reminder on Dividing (2, 3) upon (1, 6) is 0.54 - 0.24j
+
+1.Subtration            2.Multiplication        3.Division
+4.Floor Division        5.Remainder             6.quit
+
+Enter your choice : 6
